@@ -1,0 +1,26 @@
+div{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+p{
+	margin-bottom: 0;
+	padding-bottom: 0;
+	font-weight:bolder;
+}
+textarea{
+	margin-top: 0;
+}
+html
+{
+	background-color: #14A6DF;
+}
+.aaa{
+	display: flex;
+}
+label{
+	font-size: 25px;
+	font-family:monospace;
+	font-style: italic;
+	color:
+}
